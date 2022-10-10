@@ -7,3 +7,4 @@ console.log(userName, userSurname, userColor);
 document.getElementById('result').innerHTML += `
 ${userName}${userSurname}${userColor}22
 `;
+
